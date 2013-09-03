@@ -8,11 +8,32 @@
   "description": "Lato Web Font Package",
   "keywords": [
     "lato",
+    "lato-black",
+    "lato-blackitalic",
+    "lato-bold",
+    "lato-bolditalic",
+    "lato-hairline",
+    "lato-hairlineitalic",
+    "lato-italic",
+    "lato-light",
+    "lato-lightitalic",
+    "lato-regular",
     "webfont",
     "web",
     "font"
   ],
-  "license": "MIT",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
   "ignore": [
     "**/.*",
     "node_modules",

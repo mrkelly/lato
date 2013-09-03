@@ -9,12 +9,33 @@
   },
   "keywords": [
     "lato",
+    "lato-black",
+    "lato-blackitalic",
+    "lato-bold",
+    "lato-bolditalic",
+    "lato-hairline",
+    "lato-hairlineitalic",
+    "lato-italic",
+    "lato-light",
+    "lato-lightitalic",
+    "lato-regular",
     "webfont",
     "web",
     "font"
   ],
   "author": "Michael Kelly <michael@mikeryankelly.com>",
-  "license": "MIT",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/mrkelly/lato/issues"
   },
