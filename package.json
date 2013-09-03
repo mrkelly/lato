@@ -1,0 +1,27 @@
+{
+  "name": "lato",
+  "version": "0.0.1",
+  "description": "Lato Web Font Package",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://mrkelly@github.com/mrkelly/lato.git"
+  },
+  "keywords": [
+    "lato",
+    "webfont",
+    "web",
+    "font"
+  ],
+  "author": "Michael Kelly <michael@mikeryankelly.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkelly/lato/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.6.1"
+  }
+}

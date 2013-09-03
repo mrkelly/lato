@@ -1,0 +1,23 @@
+{
+  "name": "lato",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mrkelly/lato",
+  "authors": [
+    "Michael Kelly <michael@mikeryankelly.com>"
+  ],
+  "description": "Lato Web Font Package",
+  "keywords": [
+    "lato",
+    "webfont",
+    "web",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
