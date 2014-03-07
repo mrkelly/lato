@@ -1,6 +1,6 @@
 # Lato #
 
-Lato web font package with fint files, less, and CSS.  Why? Because Google's font CDN is slow and occasionally doesn't work.
+Lato web font package with fint files, less, scss, and CSS.  Why? Because Google's font CDN is slow and occasionally doesn't work.
 
 ## Use ##
 
@@ -9,14 +9,23 @@ Lato web font package with fint files, less, and CSS.  Why? Because Google's fon
 bower install lato --save
 ```
 
-2. Import the lato.less file or lato.css file into your project
+2. Import the lato.less, lato.scss or lato.css file into your project
+```css
+@import: "../some/path/lato/css/lato.css";
+```
 ```less
 @import: "../some/path/lato/less/lato.less";
+```
+```scss
+@import: "../some/path/lato/scss/lato";
 ```
 
 3. Override the Lato font path if nessesary 
 ```less
 @lato-font-path: '../font';
+```
+```scss
+$lato-font-path: '../font';
 ```
 
 ## Font Info ##
