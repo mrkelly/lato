@@ -62,9 +62,9 @@ http://www.latofonts.com/
 * [Mike Kelly](https://github.com/mrkelly)
 * [Julian Dreissig](https://github.com/thirtified)
 
-## Changes Log ##
+## Change Log ##
 ### 0.2.0 ###
- * Added SCSS for Lato
+ * Added SCSS
 
 ## License ##
 
