@@ -58,12 +58,13 @@ http://www.latofonts.com/
 * Homepage: https://github.com/mrkelly/lato
 * Repo: https://github.com/mrkelly/lato
 
-## Author ##
-* Mike Kelly
-* michael@mikeryankelly.com
-* https://mikeryankelly.com
-* https://github.com/mrkelly
-* @mrkelly
+## Contributors ##
+* [Mike Kelly](https://github.com/mrkelly)
+* [Julian Dreissig](https://github.com/thirtified)
+
+## Changes Log ##
+### 0.2.0 ###
+ * Added SCSS for Lato
 
 ## License ##
 
