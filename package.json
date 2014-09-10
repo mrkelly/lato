@@ -1,6 +1,6 @@
 {
   "name": "lato",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Lato Web Font Package",
   "main": "Gruntfile.js",
   "repository": {
