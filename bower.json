@@ -22,6 +22,10 @@
     "web",
     "font"
   ],
+  "main": [
+    "./css/lato.css",
+    "./font/*"
+  ],
   "licenses": [
     {
       "covers": "software",
