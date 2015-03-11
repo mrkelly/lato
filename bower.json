@@ -1,6 +1,6 @@
 {
   "name": "lato",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/mrkelly/lato",
   "authors": [
     "Michael Kelly <michael@mikeryankelly.com>"
@@ -21,6 +21,10 @@
     "webfont",
     "web",
     "font"
+  ],
+  "main": [
+    "./css/lato.css",
+    "./font/*"
   ],
   "licenses": [
     {
