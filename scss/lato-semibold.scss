@@ -1,0 +1,18 @@
+//
+// Lato Semi Bold
+// http://www.latofonts.com/
+// ------------------------------------------------------
+
+@font-face {
+  font-family: 'Lato';
+  src: url('#{$lato-font-path}/lato-semibold/lato-semibold.eot');
+  src: local('Lato Semi Bold'),
+       local('Lato-SemiBold'),
+       url('#{$lato-font-path}/lato-semibold/lato-semibold.eot?#iefix') format('embedded-opentype'),
+       url('#{$lato-font-path}/lato-semibold/lato-semibold.woff2') format('woff2'),
+       url('#{$lato-font-path}/lato-semibold/lato-semibold.woff') format('woff'),
+       url('#{$lato-font-path}/lato-semibold/lato-semibold.ttf') format('truetype'),
+       url('#{$lato-font-path}/lato-semibold/lato-semibold.svg#lato') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}

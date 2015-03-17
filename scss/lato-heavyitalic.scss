@@ -1,0 +1,18 @@
+//
+// Lato Heavy Italic
+// http://www.latofonts.com/
+// ------------------------------------------------------
+
+@font-face {
+  font-family: 'Lato';
+  src: url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.eot');
+  src: local('Lato Heavy Italic'),
+       local('Lato-HeavyItalic'),
+       url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.eot?#iefix') format('embedded-opentype'),
+       url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.woff2') format('woff2'),
+       url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.woff') format('woff'),
+       url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.ttf') format('truetype'),
+       url('#{$lato-font-path}/lato-heavyitalic/lato-heavyitalic.svg#lato') format('svg');
+  font-weight: 800;
+  font-style: italic;
+}

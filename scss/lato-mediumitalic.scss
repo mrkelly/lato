@@ -1,0 +1,18 @@
+//
+// Lato Medium Italic
+// http://www.latofonts.com/
+// ------------------------------------------------------
+
+@font-face {
+  font-family: 'Lato';
+  src: url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.eot');
+  src: local('Lato Medium Italic'),
+       local('Lato-MediumItalic'),
+       url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.eot?#iefix') format('embedded-opentype'),
+       url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.woff2') format('woff2'),
+       url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.woff') format('woff'),
+       url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.ttf') format('truetype'),
+       url('#{$lato-font-path}/lato-mediumitalic/lato-mediumitalic.svg#lato') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
