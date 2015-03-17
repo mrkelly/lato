@@ -5,13 +5,14 @@
 
 @font-face {
   font-family: 'Lato';
-  src: url('#{$lato-font-path}/lato-bolditalic.eot');
+  src: url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.eot');
   src: local('Lato Bold Italic'),
        local('Lato-BoldItalic'),
-       url('#{$lato-font-path}/lato-bolditalic.eot?#iefix') format('embedded-opentype'),
-       url('#{$lato-font-path}/lato-bolditalic.woff') format('woff'),
-       url('#{$lato-font-path}/lato-bolditalic.ttf') format('truetype'),
-       url('#{$lato-font-path}/lato-bolditalic.svg#lato') format('svg');
+       url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.eot?#iefix') format('embedded-opentype'),
+       url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.woff2') format('woff2'),
+       url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.woff') format('woff'),
+       url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.ttf') format('truetype'),
+       url('#{$lato-font-path}/lato-bolditalic/lato-bolditalic.svg#lato') format('svg');
   font-weight: 700;
   font-style: italic;
 }
